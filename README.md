@@ -1,3 +1,9 @@
+# **Execution Manual for NYC Taxi Insights Project**
+
+This manual provides a step-by-step guide to execute the NYC Taxi Insights Project using the provided files and architecture. It covers setting up the ETL pipeline on Cloud Composer, creating tables in BigQuery, running the machine learning pipeline on Google Colab, and deploying the prediction service on Render.
+
+---
+
 # NYcab-Insights-project
 
 ## **Prerequisites**
